@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+      "target": "http://applications.lemontech.com",
+      "secure": false,
+      "headers": {"Authorization": "Basic c2ViYXN0aWFuLnNlZ292aWEudXJ0dWJpYUBnbWFpbC5jb206YzJWaVlYTjBhV0Z1TG5ObFoyOTJhV0V1ZFhKMGRXSnBZVUJuYldGcGJDNWpiMjA9"}
+    }
+  }
